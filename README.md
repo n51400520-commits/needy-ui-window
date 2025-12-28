@@ -1,4 +1,3 @@
-# needy-ui-window
 # Needy UI Window
 
 Проект: окно в стиле Needy Girl Overdose  
