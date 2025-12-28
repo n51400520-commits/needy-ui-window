@@ -75,4 +75,23 @@ button {
   font-size: 14px;
   line-height: 1.8em;
 }
+.layout {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.stream-ui {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.character img {
+  width: 250px;
+  border: 2px solid #ff80ab;
+  border-radius: 10px;
+  background: #fff0f6;
+  box-shadow: 4px 4px #ff80ab;
+}
 
