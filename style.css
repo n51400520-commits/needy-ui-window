@@ -52,3 +52,27 @@ button {
   cursor: pointer;
   font-weight: bold;
 }
+.task-manager {
+  width: 400px;
+  margin-top: 30px;
+  border: 2px solid #ff80ab;
+  background: #fff0f6;
+  box-shadow: 4px 4px #ff80ab;
+  font-family: 'Courier New', monospace;
+}
+
+.task-title {
+  background: #ff80ab;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.task-stats {
+  padding: 15px;
+  background: #fff;
+  font-size: 14px;
+  line-height: 1.8em;
+}
+
